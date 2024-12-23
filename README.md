@@ -1,4 +1,4 @@
-# HarvardX Wiki Project
+# Wiki Django (HarvardX)
 
 ## Overview
 
